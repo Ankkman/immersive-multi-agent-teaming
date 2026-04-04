@@ -1,2 +1,2 @@
-# immersive-multi-agent-teaming
+# Immersive-Multi-Agent-Teaming
 
