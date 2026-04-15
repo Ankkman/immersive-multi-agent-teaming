@@ -7,3 +7,8 @@ VR:
 </p
 
 Desktop:
+
+<p align="center">
+  <img width="720" height="480" alt="Command_Execution_Example png" src="https://github.com/user-attachments/assets/cb959e9b-c028-4d18-93ba-c61d06efe040" />
+
+</p
